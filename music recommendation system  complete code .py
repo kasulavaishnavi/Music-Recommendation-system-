@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 # This library provides support for working with arrays and matrices, along with various mathematical functions
 # to operate on these arrays
@@ -53,10 +48,6 @@ df.head()
 # ## Preprocessing the Dataset
 
 # Dropping NaN Values
-
-# In[3]:
-
-
 # Display the shape before dropping NaN values
 print("Shape before dropping NaN values:", df.shape)
 
